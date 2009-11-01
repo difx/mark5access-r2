@@ -31,6 +31,7 @@ mark5access/mark5_format_mark4.c -text
 mark5access/mark5_format_mark5b.c -text
 mark5access/mark5_format_mark5c.c -text
 mark5access/mark5_format_vlba.c -text
+mark5access/mark5_format_vlba_nomod.c -text
 mark5access/mark5_stream.c -text
 mark5access/mark5_stream.h -text
 mark5access/mark5_stream_file.c -text
