@@ -15,6 +15,7 @@ doc/UserGuide -text
 examples/Makefile.am -text
 examples/m5d.c -text
 examples/m5fold.c -text
+examples/m5pcal.c -text
 examples/m5spec.c -text
 examples/m5test.c -text
 examples/phxsel.c -text
