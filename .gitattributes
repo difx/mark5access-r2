@@ -28,6 +28,7 @@ examples/zerocorr.c -text
 examples/zerocorr.in -text
 /mark5access.h -text
 /mark5access.pc.in -text
+/mark5access.spec.in -text
 mark5access/Makefile.am -text
 mark5access/blanker_mark5.c -text
 mark5access/blanker_none.c -text
