@@ -13,6 +13,7 @@ doc/DeveloperGuide -text
 doc/Makefile.am -text
 doc/UserGuide -text
 examples/Makefile.am -text
+examples/directory2filelist.c -text
 examples/m5d.c -text
 examples/m5fold.c -text
 examples/m5pcal.c -text
