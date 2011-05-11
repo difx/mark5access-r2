@@ -15,6 +15,7 @@ doc/UserGuide -text
 examples/Makefile.am -text
 examples/directory2filelist.c -text
 examples/m5d.c -text
+examples/m5findformats.c -text
 examples/m5fold.c -text
 examples/m5pcal.c -text
 examples/m5spec.c -text
