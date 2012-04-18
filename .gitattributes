@@ -14,6 +14,7 @@ doc/Makefile.am -text
 doc/UserGuide -text
 examples/Makefile.am -text
 examples/directory2filelist.c -text
+examples/findvdif.c -text
 examples/m5bstate.c -text
 examples/m5d.c -text
 examples/m5findformats.c -text
