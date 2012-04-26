@@ -22,6 +22,7 @@ examples/m5fold.c -text
 examples/m5pcal.c -text
 examples/m5spec.c -text
 examples/m5test.c -text
+examples/m5time.c -text
 examples/m5tsys.c -text
 examples/phxsel.c -text
 examples/test5b.c -text
