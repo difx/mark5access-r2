@@ -3,7 +3,6 @@
 /COPYING -text
 /ChangeLog -text
 /Makefile.am -text
-/NEWS -text
 /README -text
 /TODO -text
 bbsum/Makefile.am -text
