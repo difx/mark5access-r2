@@ -19,6 +19,7 @@ examples/m5d.c -text
 examples/m5findformats.c -text
 examples/m5fold.c -text
 examples/m5pcal.c -text
+examples/m5slice.c -text
 examples/m5spec.c -text
 examples/m5test.c -text
 examples/m5time.c -text
