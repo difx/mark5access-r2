@@ -40,6 +40,7 @@ mark5access/blanker_none.c -text
 mark5access/format_k5.c -text
 mark5access/format_vdif.c -text
 mark5access/format_vdifb.c -text
+mark5access/mark5_format_kvn5b.c -text
 mark5access/mark5_format_mark4.c -text
 mark5access/mark5_format_mark5b.c -text
 mark5access/mark5_format_vlba.c -text
