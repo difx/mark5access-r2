@@ -15,6 +15,7 @@ examples/Makefile.am -text
 examples/directory2filelist.c -text
 examples/fixmark5b.c -text
 examples/m5bstate.c -text
+examples/m5bsum.c -text
 examples/m5d.c -text
 examples/m5findformats.c -text
 examples/m5fold.c -text
@@ -51,5 +52,7 @@ mark5access/mark5_stream.h -text
 mark5access/mark5_stream_file.c -text
 mark5access/mark5_stream_memory.c -text
 mark5access/mark5_stream_unpacker.c -text
+mark5access/mark5bfile.c -text
+mark5access/mark5bfile.h -text
 mark5access/mark5bfix.c -text
 mark5access/mark5bfix.h -text
