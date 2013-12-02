@@ -17,6 +17,7 @@ examples/fixmark5b.c -text
 examples/m5bstate.c -text
 examples/m5bsum.c -text
 examples/m5d.c -text
+examples/m5fb.c -text
 examples/m5findformats.c -text
 examples/m5fold.c -text
 examples/m5pcal.c -text
