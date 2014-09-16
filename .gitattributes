@@ -27,6 +27,7 @@ examples/m5test.c -text
 examples/m5time.c -text
 examples/m5timeseries.c -text
 examples/m5tsys.c -text
+examples/makeheader.c -text
 examples/phxsel.c -text
 examples/test5b.c -text
 examples/test_all_unpack -text
