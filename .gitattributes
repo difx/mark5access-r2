@@ -60,3 +60,16 @@ mark5access/mark5bfile.c -text
 mark5access/mark5bfile.h -text
 mark5access/mark5bfix.c -text
 mark5access/mark5bfix.h -text
+python/AUTHORS -text
+python/COMPILING -text
+python/LICENSE.txt -text
+python/Makefile -text
+python/README -text
+python/TODO -text
+python/examples/m5stat.py -text
+python/examples/m5subband.py -text
+python/examples/m5time.py -text
+python/mark5access/__init__.py -text
+python/mark5access/mark5access.py -text
+python/patch/codegenerator.patch -text
+python/setup.py -text
