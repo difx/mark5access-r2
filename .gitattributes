@@ -70,6 +70,7 @@ python/examples/m5spec.py -text
 python/examples/m5stat.py -text
 python/examples/m5subband.py -text
 python/examples/m5time.py -text
+python/examples/m5tone.py -text
 python/mark5access/__init__.py -text
 python/mark5access/mark5access.py -text
 python/mark5access/mark5access_helpers.py -text
