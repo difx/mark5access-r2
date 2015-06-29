@@ -66,6 +66,7 @@ python/LICENSE.txt -text
 python/Makefile -text
 python/README -text
 python/TODO -text
+python/examples/m5selfcorr.py -text
 python/examples/m5spec.py -text
 python/examples/m5stat.py -text
 python/examples/m5subband.py -text
