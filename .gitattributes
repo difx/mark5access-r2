@@ -63,7 +63,6 @@ mark5access/mark5bfix.h -text
 python/AUTHORS -text
 python/COMPILING -text
 python/LICENSE.txt -text
-python/Makefile -text
 python/Makefile.am -text
 python/README -text
 python/TODO -text
