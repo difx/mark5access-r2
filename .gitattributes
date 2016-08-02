@@ -37,7 +37,6 @@ examples/zerocorr.c -text
 examples/zerocorr.in -text
 /mark5access.h -text
 /mark5access.pc.in -text
-/mark5access.spec.in -text
 mark5access/Makefile.am -text
 mark5access/blanker_mark5.c -text
 mark5access/blanker_none.c -text
@@ -78,3 +77,4 @@ python/mark5access/mark5access_helpers.py -text
 python/mark5access/mark5access_writers.py -text
 python/patch/codegenerator.patch -text
 python/setup.py -text
+/vlbi-mark5access.spec.in -text
