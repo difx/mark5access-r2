@@ -36,6 +36,7 @@ examples/test_mark5_stream.c -text
 examples/test_unpacker.c -text
 examples/zerocorr.c -text
 examples/zerocorr.in -text
+examples/zerocorr_makeconfig.py -text
 /mark5access.h -text
 /mark5access.pc.in -text
 mark5access/Makefile.am -text
