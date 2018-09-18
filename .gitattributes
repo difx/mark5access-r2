@@ -62,6 +62,8 @@ mark5access/mark5bfile.c -text
 mark5access/mark5bfile.h -text
 mark5access/mark5bfix.c -text
 mark5access/mark5bfix.h -text
+mark5access/mark6gather_mark5b.c -text
+mark5access/mark6gather_mark5b.h -text
 python/AUTHORS -text
 python/COMPILING -text
 python/LICENSE.txt -text
