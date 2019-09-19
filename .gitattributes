@@ -42,6 +42,7 @@ examples/zerocorr_makeconfig.py -text
 mark5access/Makefile.am -text
 mark5access/blanker_mark5.c -text
 mark5access/blanker_none.c -text
+mark5access/format_codif.c -text
 mark5access/format_k5.c -text
 mark5access/format_vdif.c -text
 mark5access/format_vdifb.c -text
